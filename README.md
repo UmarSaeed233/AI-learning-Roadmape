@@ -1,4 +1,3 @@
-# AI-learning-Roadmape
 # AI Learning Roadmap Generator
 
 A Streamlit application that creates personalized learning roadmaps with Google's Gemini Flash model.
